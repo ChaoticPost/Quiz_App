@@ -2,8 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ChaoticPost/QuizApp?color=green)
 <a href="https://opensource.org/licenses/MIT"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
-<img alt="Clean Architecture" src="https://img.shields.io/badge/Clean-Architecture-white"/>
-<img alt="MVVM" src="https://img.shields.io/badge/MVVM-Architecture-orange"/>
 </br>
 ![GitHub watchers](https://img.shields.io/github/watchers/ChaoticPost/QuizApp?color=green)
 ![GitHub language count](https://img.shields.io/github/languages/count/ChaoticPost/QuizApp?color=green)
